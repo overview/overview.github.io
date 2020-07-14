@@ -5,8 +5,6 @@ grand_parent: Overview Help
 nav_order: 3
 ---
 
-
-
 # Regular expression search
 
 In addition to all the rest of our search syntax, we proudly present regular-expression search:
