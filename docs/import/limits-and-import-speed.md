@@ -15,6 +15,5 @@ When using the public site (https://www.overviewdocs.com), the limits and import
 * Max 655,360 Unicode characters per document
 
 * Speed: Overview can ingest 100 Word documents per minute or 500 PDFs per minute, across all users. OCR is slower: 100 pages per minute. (These are rough estimates.)
-These numbers assume four concurrent conversions. 
 
 If you're using a custom install, you can choose how many concurrent conversions to allow. (Overview-local defaults to running only one conversion at a time.)
