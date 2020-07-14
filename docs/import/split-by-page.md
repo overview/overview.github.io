@@ -1,6 +1,6 @@
 ---
 title: Splitting massive documents into pages
-parent: Uploading Files
+parent: Importing Files
 grand_parent: Overview Help
 nav_order: 1
 ---
