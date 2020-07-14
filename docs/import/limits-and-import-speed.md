@@ -8,7 +8,7 @@ nav_order: 5
 
 # Limits and import speed
 
-When using the public site (https://www.overviewdocs.com), the limits and import speeds are as follows:
+When using the public site (https://overviewdocs.com), the limits and import speeds are as follows:
 
 * Import a maximum of 2,000,000 documents
 
