@@ -1,8 +1,8 @@
 ---
 title: Adding metadata fields during import
-parent: Importing Files
+parent: Organizing Documents
 grand_parent: Overview Help
-nav_order: 6
+nav_order: 4
 ---
 
 # Import, edit, and create document metadata
