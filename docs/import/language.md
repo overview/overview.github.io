@@ -19,4 +19,4 @@ This sets the language for Overview’s OCR, and also the list of “stop words�
 
 Note that this is the actual document processing, and the user interface will still be in English. But the application itself could appear in other languages too, if someone wants to translate the string file.
 
-See also: how to import documents that contain more than one language.
+See also: How to process documents that contain more than one language.
