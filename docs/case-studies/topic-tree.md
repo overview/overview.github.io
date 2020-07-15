@@ -72,4 +72,4 @@ If you’d like to understand the process more deeply, here are a few more detai
 
 ## Try it on your own documents
 
-Overview is available for free at overviewproject.org. It can automatically import your projects from the popular DocumentCloud repository, which also handles document upload, OCR, and other tasks. Or, you can upload a CSV file if your text is already in spreadsheet or database format. It also works great on social media data, such as a collection of tweets or blog posts.
+Overview can automatically import your projects from the popular DocumentCloud repository, which also handles document upload, OCR, and other tasks. Or, you can upload a CSV file if your text is already in spreadsheet or database format. It also works great on social media data, such as a collection of tweets or blog posts.
