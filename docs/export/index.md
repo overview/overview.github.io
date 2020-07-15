@@ -1,7 +1,7 @@
 ---
 title: Exporting
 parent: Overview Help
-has children: true
+has_children: true
 nav_order: 5
 ---
 
