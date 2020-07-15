@@ -5,7 +5,7 @@ grand_parent: Overview Help
 nav_order: 3
 ---
 
-# Entity Filter: find names of places, people and companies
+# Entity Filter - Find names of places, people and companies
 
 The Entities plugin will automatically find company names, place names (in multiple languages!), numbers, or just unusual words that aren’t in the dictionary. Like all plugins, it’s available under __Add View__.
 
