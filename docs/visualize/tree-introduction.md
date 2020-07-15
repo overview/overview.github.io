@@ -10,11 +10,13 @@ nav_order: 4
 It takes just a few minutes to start exploring your documents in Overview. Overview depends on DocumentCloud to store, OCR, and publish documents, so you will need a DocumentCloud account (here’s how to get one.)
 
 __1. Batch upload your documents to a DocumentCloud project__
+
 Log in to your DocumentCloud account Create a project to store all of your files, using the “New Project” button. Then select “New Documents.” Now here’s the trick to batch uploads: when the file dialog box opens, you can select all of the documents in a folder simultaneously by clicking on the first, then shift-clicking on the last (or pressing Control-A on Windows, or Command-A on Mac). You can keep the documents private if you like.
 
 ![document cloud new project](https://blog.overviewdocs.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-19-at-4.16.21-PM.png)
 
 __2. Log into Overview and import your project__
+
 Go to __overviewdocs.com__ and log in, or create an account. Select “import your project from DocumentCloud” and enter your DocumentCloud username and password when prompted. Your DocumentCloud projects will appear. Select the project that you want to explore, and get a coffee while Overview imports and analyzes it.
 
 ![import document set](https://blog.overviewdocs.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-19-at-4.49.46-PM.png)
