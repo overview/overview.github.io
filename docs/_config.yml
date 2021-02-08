@@ -1,4 +1,5 @@
 title: Overview Docs
-navbar-links:
-  Open Overview: https://overviewdocs.com
+aux_links:
+  Use Overview: https://overviewdocs.com
+aux_links_new_tab: true
 remote_theme: pmarsceill/just-the-docs
