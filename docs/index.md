@@ -9,6 +9,12 @@ redirect_from:
 
 Welcome to the [Overview](https://overviewdocs.com) help pages.
 
+Overview is a document investigation tool. It’s used for journalism, legal work and research of all types.
+
+Upload dozens to millions of pages of documents. Overview will arrange them for you to quickly search, read, analyze and visualize.
+
+Read these help pages to explore Overview's features. Or upload your own documents and try it out.
+
 # Getting Started
 
 Overview lets you dive through the clutter and get to the core of what you need to research.
