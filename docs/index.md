@@ -2,7 +2,7 @@
 title: Overview Help
 nav_order: 1
 redirect_from:
-  - /getting-started/
+  - /getting-started.html
 ---
 
 # Overview
