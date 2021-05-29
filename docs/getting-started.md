@@ -1,6 +1,5 @@
 ---
 title: Getting Started
-parent: Overview Help
 nav_order: 1
 ---
 

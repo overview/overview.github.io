@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-parent: Overview Help
 nav_order: 8
 ---
 
