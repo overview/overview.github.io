@@ -1,5 +1,5 @@
 ---
-title: Overview Help
+title: Getting Started
 nav_order: 1
 redirect_from:
   - /getting-started.html
