@@ -8,7 +8,7 @@ nav_order: 2
 
 The first and most common question from Overview users is _how do I get my documents in?_ The answer varies depending the format of your material. There are three basic paths to get documents into Overview: as multiple files, from a single CSV file, and via DocumentCloud. But there are several other tricks you might need, depending on your situation.
 
-![import options](https://blog.overviewdocs.com/wp-content/uploads/2013/12/Create-a-document-set.png)
+![import options](/wp-content/uploads/2013/12/Create-a-document-set.png)
 
 ## 1. The simple case – a folder full of documents
 

@@ -15,7 +15,7 @@ Starting today Overview supports multiple trees for each document set. That is, 
 
 You create a new tree using the “New Tree” link above the tree:
 
-![new tree](https://blog.overviewdocs.com/wp-content/uploads/2014/02/New-Tree.png)
+![new tree](/wp-content/uploads/2014/02/New-Tree.png)
 
 This brings up a dialog box that looks very similar to the usual import options. You can name the tree (good for reminding yourself why you made it) and set ignored and important words to tell Overview how you want your documents organized in this tree. You can also include only those documents with a specific tag.
 
@@ -25,4 +25,4 @@ Tags are shared between all of the trees created from a document set. That means
 
 After you create a tree, you can get information about what you created by clicking the little (i) on the tab for that tree:
 
-![tree info](https://blog.overviewdocs.com/wp-content/uploads/2014/02/Tree-info.png)
+![tree info](/wp-content/uploads/2014/02/Tree-info.png)

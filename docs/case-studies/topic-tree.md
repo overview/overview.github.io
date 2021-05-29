@@ -12,7 +12,7 @@ Before computers, all document-driven stories started with a big stack of paper.
 
 Today a computer can organize your documents for you. That stack of paper may now be a folder full of PDF files, but it still doesn’t come with any sort of built-in index or obvious categorization system. This is exactly the problem that Overview solves: It splits documents into piles based on their subjects, and then splits each pile into even more specific sub-piles, and so on. The result is a tree of folders.
 
-![overview folders](https://blog.overviewdocs.com/wp-content/uploads/2013/04/Overview-Folders.png)
+![overview folders](/wp-content/uploads/2013/04/Overview-Folders.png)
 
 Above is part of the folder tree that Overview automatically built for the 6,849 documents containing every mention of the city of “Caracas” within the diplomatic cables released by Wikileaks. (Click on the image for a larger version.) Overview labels each folder by the key words in the documents inside. The top folder here has words like PDVSA (the Venezuelan state oil company), “oil”, “billion,” “company” and “production,” so it’s mainly documents concerning the oil industry and other big business. Other top-level folders in this document set (not shown) concern embassy politics, elections, and military operations.
 
@@ -46,19 +46,19 @@ First, Overview strips capitalization, punctuation, and the grammar words such a
 
 You can see that most of the sense of the document is still there, despite removing lots of words. Then, Overview counts how many times each word appears in each document, producing a word frequency table, like this:
 
-![word frequency table](https://blog.overviewdocs.com/wp-content/uploads/2013/04/Word-frequency-table.png)
+![word frequency table](/wp-content/uploads/2013/04/Word-frequency-table.png)
 
 This throws out the order of the words, which means the computer can’t understand the difference between “soldiers shot civilians” and “civilians shot soldiers.” This may seem very simplistic, but surprisingly, decades of information retrieval research show that word order usually doesn’t matter when all you want to know is the topic of a document.
 
 Then Overview compares every pair of documents to check how similar they are. It does this by counting the number of words which appear in both documents, but with a twist: If a word appears twice in one document, it’s counted twice. In other words, we multiply the frequencies of corresponding words, then add up the results. This is the final similarity score.
 
-![document similarity scores](https://blog.overviewdocs.com/wp-content/uploads/2013/04/Document-similarity-scores.png)
+![document similarity scores](/wp-content/uploads/2013/04/Document-similarity-scores.png)
 
 In this case, the two documents about the cat have a similarity of 3: Cat appears twice in the first document and once in the second, plus rat appears once in each document. The document about the rat has no words in common with the document about the cat sleeping on the mat, so the similarity score is zero.
 
 Documents which are similar enough end up in the same folder, and the folder is labelled by the words which make those documents different from all the others. In this case, the folder is labeled by “cat” and “mat” because those words don’t appear in the remaining document about the rat.
 
-![similar documents](https://blog.overviewdocs.com/wp-content/uploads/2013/04/Similar-documents.png)
+![similar documents](/wp-content/uploads/2013/04/Similar-documents.png)
 
 And that’s the heart of it. This description omits a number of details for simplicity, but includes all of the things a reporter needs to know:
 

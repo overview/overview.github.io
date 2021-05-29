@@ -11,7 +11,7 @@ Have you ever needed to extract the author or write notes for each document? Now
 
 The new “Fields” section sits in wait underneath each document. Click it, and you’ll be able to create fields and change their values.
 
-![metadata filled in](https://blog.overviewdocs.com/wp-content/uploads/2015/07/metadata-filled-in.png)
+![metadata filled in](/wp-content/uploads/2015/07/metadata-filled-in.png)
 
 The list of fields is the same for every document in a document set. Each document has its own field values.
 
@@ -19,7 +19,7 @@ You can create new fields directly in Overview, or import them as extra columns 
 
 All your fields will appear as new columns when you export a spreadsheet:
 
-![metadata-output-csv](https://blog.overviewdocs.com/wp-content/uploads/2015/07/metadata-output-csv.png)
+![metadata-output-csv](/wp-content/uploads/2015/07/metadata-output-csv.png)
 
 You can use a spreadsheet program to filter for field values.
 The “fields” feature is new. We know there’s plenty of pizzazz to add:

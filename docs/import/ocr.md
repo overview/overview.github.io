@@ -11,7 +11,7 @@ We’ve added a new feature into Overview: Optical Character Recognition (OCR). 
 
 You can enable OCR during import:
 
-![OCR options](https://blog.overviewdocs.com/wp-content/uploads/2015/10/Screen-Shot-2017-09-26-at-3.07.38-PM.png)
+![OCR options](/wp-content/uploads/2015/10/Screen-Shot-2017-09-26-at-3.07.38-PM.png)
 
 If you set the OCR option, Overview will use OCR automatically on every page that has fewer than 100 characters of searchable text. When OCR is needed it will make your uploads a lot slower, but you will need to OCR them anyway before you can search them, and you can’t beat the convenience.
 

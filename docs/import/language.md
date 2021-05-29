@@ -11,7 +11,7 @@ Overview’s natural language processing supports English and also Spanish, Fren
 
 You can select your language as part of the document set import options, like this:
 
-![choose language](https://blog.overviewdocs.com/wp-content/uploads/2013/07/Screen-Shot-2013-07-18-at-10.14.02-AM.png)
+![choose language](/wp-content/uploads/2013/07/Screen-Shot-2013-07-18-at-10.14.02-AM.png)
 
 (You can also select the language when importing CSV files.)
 

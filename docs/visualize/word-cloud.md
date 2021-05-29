@@ -11,6 +11,6 @@ Word Cloud lets you zero in on exactly what you want to investigate. It shows yo
 
 You can use the delete tool to remove the words that are not productive to your search. When you remove words, less common words are added to fill up the space. 
 
-![edit word cloud](https://blog.overviewdocs.com/wp-content/uploads/2016/03/Edit-word-cloud.png)
+![edit word cloud](/wp-content/uploads/2016/03/Edit-word-cloud.png)
 
 You can have more than one word cloud at a time, through the Add View menu. Press the Hidden Words button to unhide words.

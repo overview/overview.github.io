@@ -11,13 +11,13 @@ Overview automatically files documents by topic. But you know things that the co
 
 This works in combination with the ability to ignore unimportant words. Suppose you’re looking at the White House emails about drilling in the Gulf of Mexico (one of Overview’s example document sets) and you’re specifically interested in environmental topics. You can enter words like “environment” and “environmental” in the important words box, like this:
 
-![important words import option](https://blog.overviewdocs.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-30-at-2.26.14-PM.png)
+![important words import option](/wp-content/uploads/2014/01/Screen-Shot-2014-01-30-at-2.26.14-PM.png)
 
 Here we’ve used the “words to ignore” feature to tell Overview to ignore the names of the two main email writers, because we don’t want to organize emails by who sent them — just their contents. Then we’ve entered “environment” and “environmental” as important words to tell Overview that that’s what we want to look for. Note that we’ve also entered “Environment” and “Environmental” because the important words list is case-sensitive (ignore words are not case sensitive.)
 
 Overview throws out the ignored words, then gives extra weight to any of the important words it finds. Usually it ends up filing all the documents containing important words in their own folder, like this:
 
-![important words](https://blog.overviewdocs.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-30-at-2.27.34-PM.png)
+![important words](/wp-content/uploads/2014/01/Screen-Shot-2014-01-30-at-2.27.34-PM.png)
 
 Overview doesn’t put all documents containing the important words into their own folder. If a document contains “environment” but is much more closely related to other documents which do not, it will be filed with them instead. (You can always search to see where Overview has filed documents containing a particular word.)
 

@@ -9,7 +9,7 @@ nav_order: 2
 
 Overview now supports advanced syntax in the search field, like this:
 
-![search field](https://blog.overviewdocs.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-20-at-11.36.50-AM.png)
+![search field](/wp-content/uploads/2013/12/Screen-Shot-2013-12-20-at-11.36.50-AM.png)
 
 This gives you an enormous amount of control over finding specific documents.
 

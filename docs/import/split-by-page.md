@@ -13,7 +13,7 @@ It can be challenging to recover the original document boundaries within a file 
 
 Fortunately there is an easy trick that works well in most cases: split each long document into pages, and then have Overview sort the large number of pages, not the small number of original documents. Overview can do this automatically when importing from PDF of DocumentCloud, if you tell it that each page counts as a document.
 
-![import options](https://blog.overviewdocs.com/wp-content/uploads/2013/04/Split-pages.png)
+![import options](/wp-content/uploads/2013/04/Split-pages.png)
 
 AP reporter Jack Gillum was the first to suggest this trick, and used it when analyzing 9,000 pages of documents concerning then-Vice Presidential candidate Paul Ryan. In that case, there were many different kinds and lengths of documents within the huge stack of paper he received. Manual splitting was out of the question because it would have been much too time consuming, and there was no easy way to automate the task. Making Overview sort “pages” instead of “documents” was the simple solution, and it worked great.
 

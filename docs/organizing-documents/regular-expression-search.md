@@ -7,7 +7,7 @@ nav_order: 3
 
 # Regular expression search
 
-![search all documents](https://blog.overviewdocs.com/wp-content/uploads/2017/08/Screenshot-from-2017-08-08-15-01-36.png)
+![search all documents](/wp-content/uploads/2017/08/Screenshot-from-2017-08-08-15-01-36.png)
 
 In addition to being able to search for _words_ Overview also lets you search for _characters_. (Unicode characters, to be precise) including expressions with spaces, digits, punctuation, or unusual characters in them.
 

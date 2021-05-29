@@ -7,7 +7,7 @@ nav_order: 1
 
 # Overview's search syntax
 
-![search bar](https://blog.overviewdocs.com/wp-content/uploads/2013/12/Screen-Shot-2013-12-20-at-11.36.50-AM.png)
+![search bar](/wp-content/uploads/2013/12/Screen-Shot-2013-12-20-at-11.36.50-AM.png)
 
 Overview supports phrase searches, fuzzy searches, and booleans. Here’s what you can search for in the search box and the Multi-Search plugin:
 

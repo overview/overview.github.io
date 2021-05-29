@@ -13,13 +13,13 @@ __1. Batch upload your documents to a DocumentCloud project__
 
 Log in to your DocumentCloud account Create a project to store all of your files, using the “New Project” button. Then select “New Documents.” Now here’s the trick to batch uploads: when the file dialog box opens, you can select all of the documents in a folder simultaneously by clicking on the first, then shift-clicking on the last (or pressing Control-A on Windows, or Command-A on Mac). You can keep the documents private if you like.
 
-![document cloud new project](https://blog.overviewdocs.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-19-at-4.16.21-PM.png)
+![document cloud new project](/wp-content/uploads/2012/09/Screen-Shot-2012-09-19-at-4.16.21-PM.png)
 
 __2. Log into Overview and import your project__
 
 Go to __overviewdocs.com__ and log in, or create an account. Select “import your project from DocumentCloud” and enter your DocumentCloud username and password when prompted. Your DocumentCloud projects will appear. Select the project that you want to explore, and get a coffee while Overview imports and analyzes it.
 
-![import document set](https://blog.overviewdocs.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-19-at-4.49.46-PM.png)
+![import document set](/wp-content/uploads/2012/09/Screen-Shot-2012-09-19-at-4.49.46-PM.png)
 
 __3. Explore the documents in the tree view__
 
@@ -37,7 +37,7 @@ __4. Tag interesting documents__
 
 As you explore the topic tree, you’ll run across individual documents or entire nodes you want to remember. Enter a descriptive tag in the “new tag” field and press “tag.” The currently selected documents will be tagged, and a little tag color swatch will appear next to them in the document list.
 
-![adding a tag](https://blog.overviewdocs.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-19-at-5.08.53-PM.png)
+![adding a tag](/wp-content/uploads/2012/09/Screen-Shot-2012-09-19-at-5.08.53-PM.png)
 
 Once you’ve created a tag, you can add the currently selected documents to it at any time by pressing the + button that appears when your mouse is over the tag name.  (To tag an entire node at once, select the node and then press the +/- button.) Or press – to remove the tag.
 

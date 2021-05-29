@@ -73,10 +73,10 @@ Every other column will appear as editable document metadata. When Overview expo
 
 First, select the upload option from the document set list page:
 
-![create a document set](https://blog.overviewdocs.com/wp-content/uploads/2014/05/Upload-methods.png)
+![create a document set](/wp-content/uploads/2014/05/Upload-methods.png)
 
 Then choose a file. Overview will show a preview and do some basic checks to ensure that the format is OK. It should look like this:
 
-![upload a csv file](https://blog.overviewdocs.com/wp-content/uploads/2014/05/Upload-CSV.png)
+![upload a csv file](/wp-content/uploads/2014/05/Upload-CSV.png)
 
 After these checks you will see the usual import options, then a preview of the file contents. You may need tell Overview what character encoding the file uses. Try changing this if you see funny square characters in the preview, or accents aren’t displaying right. Then hit upload, and away we go.

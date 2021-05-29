@@ -30,7 +30,7 @@ As you select each folder, Overview shows a list of the posts in that folder in 
 
 It’s the tags you create that define which conversations you’re interested in. These might be very broad categories such as “positive” and “negative,” or much more specific tags such as “didn’t like the color.” Generally, you’ll explore the documents top-to-bottom and left-to-right, inventing and assigning tags as you go. You can assign tags to one document at a time if you like, but usually you’ll want to assign a tag to all documents in the folder at the same time. To do this, select the folder, then move the mouse over the tag and press the + button.
 
-![addtag](https://blog.overviewdocs.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-17-at-4.53.28-PM.png)
+![addtag](/wp-content/uploads/2013/04/Screen-Shot-2013-04-17-at-4.53.28-PM.png)
 
 Tags are non-exclusive, meaning that each document can have as many tags as you like.
 
@@ -38,9 +38,9 @@ __Step 3: Export your data__
 
 Now that you’ve seen what’s in your data, and tagged it for future reference, you probably want to use these results in some way. You can see how many documents have each tag just by selecting that tag. Or, you can export your entire document set, including the tags you just added. The export button is on the document set list page. It creates a spreadsheet (CSV file) and gives you a choice how you want your tags.
 
-![tag export](https://blog.overviewdocs.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-17-at-4.58.44-PM.png)
+![tag export](/wp-content/uploads/2013/04/Screen-Shot-2013-04-17-at-4.58.44-PM.png)
 
 Each document will be one row in the speradsheet. If you put all tags in one column they will be separated by commas, like “Sunshine, Positive.” But putting each tag in its own column makes it easy to do things like find all the documents that have a specific tag, or take column totals to get the number of documents with each tag — useful for making a visualization of your results, like this visualization of 16,000 tweets about drones (created with Overview by Tempero UK):
 
-![16,000 tweets about drones](https://blog.overviewdocs.com/wp-content/uploads/2013/04/Screen-Shot-2013-12-03-at-7.33.58-AM.png)
+![16,000 tweets about drones](/wp-content/uploads/2013/04/Screen-Shot-2013-12-03-at-7.33.58-AM.png)
 

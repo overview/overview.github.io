@@ -11,17 +11,17 @@ If you’ve added metadata fields to your documents, rejoice: now you can search
 
 I’ll set metadata on two documents for a quick demonstration:
 
-![I've set metadata on this document....](https://blog.overviewdocs.com/wp-content/uploads/2017/06/Screenshot-from-2017-06-14-13-11-41.png)
+![I've set metadata on this document....](/wp-content/uploads/2017/06/Screenshot-from-2017-06-14-13-11-41.png)
 
 I've set metadata on this document....
 
-![I… And then I set metadata on this second document….](https://blog.overviewdocs.com/wp-content/uploads/2017/06/Screenshot-from-2017-06-14-13-12-49.png)
+![I… And then I set metadata on this second document….](/wp-content/uploads/2017/06/Screenshot-from-2017-06-14-13-12-49.png)
 
 … And then I set metadata on this second document….
 
 Now, I can search these new fields by prepending [Field Name]: to the search:
 
-![Search can now include custom fields](https://blog.overviewdocs.com/wp-content/uploads/2017/06/Screenshot-from-2017-06-14-13-13-35.png)
+![Search can now include custom fields](/wp-content/uploads/2017/06/Screenshot-from-2017-06-14-13-13-35.png)
 
 Search can now include custom fields
 
